@@ -1,0 +1,1 @@
+Photos with face(-s) will be download to this folder. They will be divided into folders for each user ID.
