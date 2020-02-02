@@ -1,0 +1,1 @@
+Audio messages after frequency conversation will be in this folder. They will be divided into folders for each user ID.
