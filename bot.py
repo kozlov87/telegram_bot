@@ -8,7 +8,7 @@ import cv2
 import io
 from PIL import Image
 
-API_TOKEN = '951549634:AAGK2LCjOCC8Ksm6cb7n3B564tY6liGkyOA'
+API_TOKEN = ''
 # New sampling rate
 NEW_RATE = 16000
 # Path to data
